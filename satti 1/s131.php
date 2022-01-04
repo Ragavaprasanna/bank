@@ -1,0 +1,80 @@
+<html>
+	<head>
+	<title>E-Banking</title>
+	<style>
+	
+	body{
+		background-image:url('212.jpg');
+		background-size:cover;
+	}
+	 .container{
+	width: 620px;
+	padding: 4% 4% 4%;
+	margin : auto;
+	box-shadow: 10px 10px 5px #888888;
+	background-color: #fff;
+	text-align: center;
+	position:relative;
+	top:50px;
+	vertical-align: middle;
+}
+
+
+h3{
+	color:#1f00a8;
+	font-family: helvetica;
+}
+
+a{
+	color:#f00f53;
+	text-decoration: none;
+	align-content: right;
+}
+
+button{
+	width:380px;
+	margin :10px;
+	padding:5px;
+	font-weight: bold;
+	background-color: #ff474a;
+	text-align: center;
+	color:white;
+}
+
+
+button:hover {
+  background: #a30003;
+}
+
+
+    </style>
+	</head>
+	<?php
+		session_start();
+		if($_SESSION['user'])
+		{}
+		else
+		{
+			header("location:index.php");
+		}
+		$user=$_SESSION['user'];
+		?>
+	<body>
+
+	<div class="container">
+	<h3> மின் வங்கிக்கு  நல்வரவு 
+	     <?php Print "$user" ?></h3>
+
+		<br/><br/>
+		<button type = "button" onclick="location.href='s9.php'" >டெபாசிட்.</button>
+		
+		
+		<button type = "button" onclick="location.href='s10.php'" >பணம் எடுத்தல்.</button>
+	
+	
+		<button type = "button" onclick="location.href='s11.php'" >மீதமுள்ள தொகை.</button>
+
+	</div>
+	</body>
+	
+</html>

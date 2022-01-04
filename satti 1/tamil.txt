@@ -1,0 +1,45 @@
+
+பயனர்பெயர்   username
+
+கடவுச்சொல்  password
+
+புதிய பதிவு new register
+முதல் பெயர் first name
+கடைசி பெயர் last name
+மின்னஞ்சல் email
+தொலைபேசி phone
+வீடு home
+பரிமாற்ற transfer
+பரிமாற்ற அறிக்கை  transfer report
+கடவுச்சொல்லை மாற்று change password
+பரிவர்த்தனை transaction
+வெளியேறு logout
+கணக்கிலிருந்து from account
+கணக்கில் to account
+பரிமாற்ற படிவம் transfer form
+பணம் பெறுபவர் பெயர் Payee name
+முகவரி Address
+வங்கி பெயர் Bank Name
+கணக்கை மாற்றவும் Transfer AC
+வங்கி மாற்றம்  Transfer Bank
+சமர்ப்பிக்க submit
+பின் back
+கடவுச்சொல் புதுப்பித்தல் படிவம்  password updation form
+கடவுச்சொல் புதுப்பிப்பு PASSWORD UPDATION
+உங்கள் பயனர்பெயரை உள்ளிடவும் Enter your username
+உங்கள் பழைய கடவுச்சொல்லை உள்ளிடவும்  Enter your old password
+உங்கள் புதிய கடவுச்சொல்லை உள்ளிடவும் Enter your new password
+உங்கள் புதிய கடவுச்சொல்லை உள்ளிடுக Re-Enter your new password
+மீட்டமைக்க reset
+எஸ்பிஐ sbi
+யூனியன் வங்கி union
+இந்திய வங்கி indian
+கனரா வங்கி canera
+வெற்றிகரமாக மாற்றவும் transfer successfully
+வெற்றிகரமாக பதிவுசெய்யவும் register successfully
+கடவுச்சொல் புதுப்பிக்கப்பட்டது password updated
+டெபாசிட் deposited
+திரும்ப withdrawal
+மீதி balance
+
+
